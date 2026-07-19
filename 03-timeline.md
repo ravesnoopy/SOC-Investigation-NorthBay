@@ -14,7 +14,7 @@
 | **INFERRED** | Supported by correlated indicators but not confirmed by a standalone log entry |
 | **UNKNOWN** | Gap in available evidence — declared explicitly; no event asserted |
 
----
+![Timeline](images/timeline.png)
 
 ## Clock Conflict Notice
 
