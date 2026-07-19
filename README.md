@@ -1,3 +1,6 @@
+![Banner](images/banner.png)
+
+
 # SOC Investigation Report — Weekend Alert Correlation (`admin_backup`)
 
 **Case ID:** TKT-2026-04340 — *Weekend correlation review*
