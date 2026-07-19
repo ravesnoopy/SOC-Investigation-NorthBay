@@ -11,6 +11,10 @@
 
 ---
 
+![Executive](images/executiveincidentoverview.png)
+
+---
+
 ## 1. Scenario
 
 Monday, 09:00. Five critical alerts generated between Friday and Saturday had each been closed as a false positive by a different analyst, on a different shift, investigated in isolation. An open ticket asked for a weekend correlation review. The standing question from the SOC Manager: individually-closed false positives don't matter if, taken together, they tell a different story.
